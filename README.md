@@ -11,7 +11,7 @@ From the perspective of traditional super-resolution dataset construction, using
 
 ### Motivation
 
-![]([.\result](https://github.com/kleenY/MMTCSR/tree/main/result/introduction.png)
+![image](./result/introduction.png)
 
 
 
@@ -67,15 +67,15 @@ From the perspective of traditional super-resolution dataset construction, using
 
 Results of network module ablation experiments
 
-![ablation](.\result\ablation.png)
+![image](./result/ablation.png)
 
 Comparison of experimental results
 
-![comparetion](.\result\comparetion.png)
+![image](./result/comparetion.png)
 
 
 
-![restoration](.\result\restoration.png)
+![image](./result/restoration.png)
 
 
 
