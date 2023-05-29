@@ -11,7 +11,7 @@ From the perspective of traditional super-resolution dataset construction, using
 
 ### Motivation
 
-![](.\result\introduction.png)
+![]([.\result](https://github.com/kleenY/MMTCSR/tree/main/result/introduction.png)
 
 
 
