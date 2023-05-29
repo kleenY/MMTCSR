@@ -59,7 +59,7 @@ From the perspective of traditional super-resolution dataset construction, using
 
 ### Network Structure Diagram
 
-![network](result\network.png)
+![image](./result/network.png)
 
 
 
