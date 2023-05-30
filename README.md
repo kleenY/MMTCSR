@@ -86,8 +86,7 @@ Comparison of experimental results
 3. the hyperparameters are set in the parser_utils file in the utils folder;
 4. testing with the mytest file after the training is completed;
 5. use the image display file under the my_utils folder to convert the results into images for observation. you can use the metrics calculation file under the my_utils folder to calculate the metrics between the results and the real images.
-6. Our trained model is available at this URL：https://drive.google.com/file/d/1j8slpLQ4Cj1L7jgaErwTloEL0e8T964T/view?usp=drive_link .
-7. Our multi-modal tropical cyclone remote sensing image super-resolution dataset is available at this URL：https://drive.google.com/drive/folders/16nszEIv_6uR3IIz3-R11cDljNEg2PgTR?usp=drive_link .
+6. Our trained model and multi-modal tropical cyclone remote sensing image super-resolution dataset is available at this URL：https://drive.google.com/drive/folders/16nszEIv_6uR3IIz3-R11cDljNEg2PgTR?usp=drive_link .
 
 ### Citations
 
